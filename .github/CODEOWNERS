@@ -1,0 +1,6 @@
+# Code owners for the collectd project.
+
+# Global owners: all maintainers
+*	@collectd/trusted-contributors
+
+src/intel_rdt.c	@kwiatrox @maryamtahhan @rkorynkx @serhiyx @collectd/trusted-contributors
